@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt # type: ignore
 import numpy as np
 
 # Load the Excel file
-file_path = "C://Users//sahoo//Alcohol_consumption_Indian_State_2021_.xlsx"
+file_path = "C://Users//bibek//Alcohol_consumption_Indian_State_2021_.xlsx"
 data = pd.ExcelFile(file_path)
 
 # Parse the sheet
